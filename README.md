@@ -2,7 +2,8 @@ This test suite focuses on 3 critical paths of the SauceDemo web application:
 1. Login 
 2. Adding a product to the shopping cart 
 3. Placing an order 
-Additionally, it checks sorting the main inventory page by price and by name. 
+
+Additionally, it checks sorting the products on the main inventory page by price and by name. 
 
 The suite contains a Github Actions workflow, to allow running the tests from Github. 
 
