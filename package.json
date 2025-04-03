@@ -1,5 +1,5 @@
 {
-  "name": "henryscheinone",
+  "name": "ceros",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/klava0303/henryscheinone.git"
+    "url": "git+https://github.com/klava0303/ceros.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/klava0303/henryscheinone/issues"
+    "url": "https://github.com/klava0303/ceros/issues"
   },
-  "homepage": "https://github.com/klava0303/henryscheinone#readme",
+  "homepage": "https://github.com/klava0303/ceros#readme",
   "devDependencies": {
     "@playwright/test": "^1.45.0",
     "@types/node": "^20.14.9"
